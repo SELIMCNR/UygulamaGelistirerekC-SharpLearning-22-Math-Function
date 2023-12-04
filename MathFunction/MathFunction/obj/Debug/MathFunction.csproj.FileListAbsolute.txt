@@ -1,0 +1,10 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project29\MathFunction\MathFunction\bin\Debug\MathFunction.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project29\MathFunction\MathFunction\bin\Debug\MathFunction.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project29\MathFunction\MathFunction\bin\Debug\MathFunction.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project29\MathFunction\MathFunction\obj\Debug\MathFunction.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project29\MathFunction\MathFunction\obj\Debug\MathFunction.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project29\MathFunction\MathFunction\obj\Debug\MathFunction.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project29\MathFunction\MathFunction\obj\Debug\MathFunction.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project29\MathFunction\MathFunction\obj\Debug\MathFunction.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project29\MathFunction\MathFunction\obj\Debug\MathFunction.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project29\MathFunction\MathFunction\obj\Debug\MathFunction.pdb
